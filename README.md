@@ -46,7 +46,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aalokkumar0&show_icons=true&theme=radical&locale=en" alt="aalokkumar0" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aalokkumar0&theme=radical" alt="aalokkumar0" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aalokkumar0&theme=radical" alt="#" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalokkumar0&layout=compact&theme=radical" alt="Top Languages" />
