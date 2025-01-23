@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aalok kr.</h1>
 <h3 align="center">I have a keen interest in software development,and exploring new technologies. Always eager to learn and grow, I believe in the power of collaboration and open source.</h3>
-<img align="right" alt="coding" width="900" src="https://camo.githubusercontent.com/2f229b8e19e613da9936e4df773794bfba8a193c96a0ff9537f1d6f4117e9d47/68747470733a2f2f77616c6c7061706572636176652e636f6d2f77702f7770363635373831372e6a7067">
+<img align="right" alt="coding" width="900" src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=2607&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
 - 📫 How to reach me **aalok0601@gmail.com**
 
