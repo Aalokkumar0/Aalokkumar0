@@ -18,7 +18,6 @@
   <a href="https://www.linkedin.com/in/aalok-kumar-6022a0261/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <hr/>
   <a href="https://www.instagram.com/aalokkr.1?igsh=MTJvd2x4bWV5OTI3Nw==" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
