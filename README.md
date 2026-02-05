@@ -1,62 +1,77 @@
-<h1 align="center">Hi 👋, I'm Aalok Kr.</h1>
-<h3 align="center">Passionate about Software Development | Exploring New Technologies | Open Source Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Aalok Kumar</h1>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=2607&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Coding" width="80%" style="border-radius: 10px;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+App+Enthusiast;Open+Source+Learner;Building+Smart+Solutions+🚀">
+</p>
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=2607&auto=format&fit=crop" width="95%" style="border-radius:15px;">
 </p>
 
 ---
 
-- 📫 **How to reach me:** **aalok0601@gmail.com**
+## 🚀 About Me
 
-- ⚡ **Fun Fact:** Despite being super lazy, I always find a way to get things done efficiently—thanks to automation and smart coding!
+✨ Passionate Software Developer focused on building modern applications  
+📱 Exploring **Flutter, Mobile Development & Backend Systems**  
+⚡ Love automation, clean UI, and efficient coding  
+🌱 Continuous learner improving every day  
 
----
-
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/aalok-kumar-6022a0261/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://www.instagram.com/aalokkr.1?igsh=MTJvd2x4bWV5OTI3Nw==" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-</p>
+📫 Contact: **aalok0601@gmail.com**
 
 ---
 
-<h3 align="center">💻 Languages and Tools</h3>
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/aalok-kumar-6022a0261/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+<a href="https://www.instagram.com/aalokkr.1">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+## 🧠 Tech Stack
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aalokkumar0&show_icons=true&theme=radical&locale=en" alt="aalokkumar0" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aalokkumar0&theme=radical" alt="#" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalokkumar0&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,python,js,html,css,firebase,git,figma,c" />
 </p>
 
 ---
 
-<h3 align="center">✨Dev Quote</h3>
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
+<img src="https://github-readme-stats.vercel.app/api?username=aalokkumar0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
-<h3 align="center">🌟 Thanks for Visiting! 🌟</h3>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=aalokkumar0&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalokkumar0&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aalokkumar0&theme=tokyonight&no-frame=true&row=1"/>
+</p>
+
+---
+
+## ✨ Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile — Let's build something amazing! ⭐</h3>
