@@ -10,16 +10,11 @@
 
 <!-- Working Coding Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
 </p>
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=2607&auto=format&fit=crop" width="95%" style="border-radius:20px;"/>
-</p>
 
----
-
-## 🚀 About Me
+##  About Me
 
 <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="220"/>
 
